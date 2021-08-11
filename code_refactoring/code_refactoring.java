@@ -79,7 +79,7 @@ public class FootballPlayer {
 	
 	public static void main(String[] args){
 		
-		// The creation methods 
+		// The creation methodss
 		// Explain what type of player is being made
 		// Are easier to understand (especially the attributes)
 		
