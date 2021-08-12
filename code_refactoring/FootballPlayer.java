@@ -1,6 +1,4 @@
-// Demonstrate the Creation Method replacement of Constructors
 // Code Refactoring
-
 public class FootballPlayer {
 	
 	private double passerRating;

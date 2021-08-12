@@ -10,13 +10,9 @@ public class FootballPlayer40YardDashInfo {
 		
 	}
 	
-	// This method is the focus of the extract method tutorial
-	
 	public void printPlayerInfo(){
 		
 		double avg40YdTime = 0.0;
-		
-		// Prints the titles
 		
 		printTitles();
 		
