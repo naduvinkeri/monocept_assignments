@@ -25,6 +25,13 @@ public class Lead extends Employee {
         builder.append(name);
         builder.append(",");
         builder.append(empId);
+
+        builder.append("Employees:");
+
+        employees
+            .forEach(employee -> {
+                builder.append(employeetoString());
+            });
         
         return builder.toString();
 }
